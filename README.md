@@ -1,8 +1,8 @@
 #Homework 1, Code refactor 
 
-By Sahil Patel
+##By Sahil Patel
 
-## Code-refactor was the first homework assignment I was given during my time at the Georgia Tech coding bootcamp. This assignment was very fun and teaches you how semantic elements allow for easier navigating through a html document and to never repeat code. Repeating code not only makes maintaining much more difficult, it makes an application or website run that much slower. 
+Code-refactor was the first homework assignment I was given during my time at the Georgia Tech coding bootcamp. This assignment was very fun and teaches you how semantic elements allow for easier navigating through a html document and to never repeat code. Repeating code not only makes maintaining much more difficult, it makes an application or website run that much slower. 
 
 Link to the GitHub repo: https://github.com/War-Nugget/hw-1-Code-Refactor
 Link to website: https://war-nugget.github.io/hw-1-Code-Refactor/
